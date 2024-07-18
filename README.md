@@ -1,5 +1,5 @@
 # Site Link
-https://main--lucent-jelly-3eecdb.netlify.app/
+https://sorting-visualizzeer.netlify.app/
 
 # Sorting-Visualizer
 
@@ -33,13 +33,6 @@ https://user-images.githubusercontent.com/101854972/159030038-f67f9166-d27e-4056
 
 ✅ Merge Sort
 
-# Algorithms to Add
-
-🔧 QuickSort (Hoarse Partition)
-
-🔧 Shell Sort
-
-🔧 Radix Sort
 
 # Technologies Used
 ✅ HTML
